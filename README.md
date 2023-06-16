@@ -38,7 +38,7 @@ However it´s not only about technical skills. I value effective **communication
 - [NLP - Evaluating and predicting the effectiveness of a brand by monitoring its social media platforms.](https://github.com/JaredR33/Twitter-sentiment-analysis)
 - [ML - Predicitng student´s academic success. "Will they graduate?"](https://github.com/JaredR33/Machine-Learning-Project)
 - [Python Library for Data Scientist (team project)](https://github.com/JaredR33/MachineLearningToolKit)
-- [Web APP hat allows users to interact with OpenAI GPT3 models, deployed at AWS, powered by DOCKER](https://github.com/JaredR33/ChatGPT-App-Post-creator)
+- [Web APP that allows users to interact with OpenAI GPT3 models, deployed at AWS, powered by DOCKER](https://github.com/JaredR33/ChatGPT-App-Post-creator)
 
 ## Languages and Tools
 
