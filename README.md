@@ -1,6 +1,6 @@
 <div id="header" align="center">
  <div align="center" style="margin-top: -20px; margin-bottom: 30px;">
-    <img src="images/Jared%20Rivas%20(1).png" width="800">
+    <img src="images/Jared%20Rivas%20(1).png" width="700">
  </div>
  <div id="badges">
   <a href="https://www.linkedin.com/in/migueldefrutosrevilla/">
