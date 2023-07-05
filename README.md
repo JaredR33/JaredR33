@@ -23,7 +23,15 @@ I am Passionate about continuous learning and staying at the forefront of techno
  
 However it´s not only about technical skills. I value effective **communication** and enjoy working together with others to achieve project success. If you're interested in collaborating or learning more about my experience, please feel free to reach out!
  
- 
+
+## Last projects 
+- [EDA - Uncover hidden salary patterns among immigrants in Spain through exploratory analysis.](https://github.com/JaredR33/EDA)
+- [NLP - Evaluating and predicting the effectiveness of a brand by monitoring its social media platforms.](https://github.com/JaredR33/Twitter-sentiment-analysis)
+- [ML - Predicitng student´s academic success. "Will they graduate?"](https://github.com/JaredR33/Machine-Learning-Project)
+- [Python Library for Data Scientist (team project)](https://github.com/JaredR33/MachineLearningToolKit)
+- [Web APP that allows users to interact with OpenAI GPT3 models, deployed at AWS, powered by DOCKER](https://github.com/JaredR33/ChatGPT-App-Post-creator)
+
+
 ## Interests
 - 🔭 Currently, I'm working on amplifying my **Machine Learning expertise** while simultaneously diving into advanced **SQL, Power BI, Azure,** and other related technologies, nurturing my continuous learning journey
 
@@ -32,13 +40,6 @@ However it´s not only about technical skills. I value effective **communication
 - ⚡ In my free time, I love to play the piano, go hiking and discover new things
 
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rivasoballe@gmail)
-
-## Last projects 
-- [EDA - Uncover hidden salary patterns among immigrants in Spain through exploratory analysis.](https://github.com/JaredR33/EDA)
-- [NLP - Evaluating and predicting the effectiveness of a brand by monitoring its social media platforms.](https://github.com/JaredR33/Twitter-sentiment-analysis)
-- [ML - Predicitng student´s academic success. "Will they graduate?"](https://github.com/JaredR33/Machine-Learning-Project)
-- [Python Library for Data Scientist (team project)](https://github.com/JaredR33/MachineLearningToolKit)
-- [Web APP that allows users to interact with OpenAI GPT3 models, deployed at AWS, powered by DOCKER](https://github.com/JaredR33/ChatGPT-App-Post-creator)
 
 ## Languages and Tools
 
