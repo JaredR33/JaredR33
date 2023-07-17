@@ -27,7 +27,7 @@ However it´s not only about technical skills. I value effective **communication
 ## Last projects 
 - [EDA - Uncover hidden salary patterns among immigrants in Spain through exploratory analysis.](https://github.com/JaredR33/EDA)
 - [NLP - Evaluating and predicting the effectiveness of a brand by monitoring its social media platforms.](https://github.com/JaredR33/Twitter-sentiment-analysis)
-- [ML - Predicitng student´s academic success. "Will they graduate?"](https://github.com/JaredR33/Machine-Learning-Project)
+- [Machine Learning - Predicitng student´s academic success. "Will they graduate?"](https://github.com/JaredR33/Machine-Learning-Project)
 - [Python Library for Data Scientist (team project)](https://github.com/JaredR33/MachineLearningToolKit)
 - [Web APP that allows users to interact with OpenAI GPT3 models, deployed at AWS, powered by DOCKER](https://github.com/JaredR33/ChatGPT-App-Post-creator)
 
